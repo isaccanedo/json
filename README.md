@@ -5,10 +5,10 @@ ou simplesmente para testar coisas localmente.
 
 ## Links para os arquivos JSON
 
-Este repositório contém arquivos JSON com dados de posts e usuários.
+Este repositório contém arquivos JSON com dados de bancos e serviços:
 
-* [posts.json](https://isaccanedo.github.io/json/posts.json)
-* [users.json](https://isaccanedo.github.io/json/users.json)
+* [bancos.json](https://isaccanedo.github.io/json/bancos.json)
+* [servicos.json](https://isaccanedo.github.io/json/servicos.json)
 
 ## Como usar os dados
 
