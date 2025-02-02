@@ -1,0 +1,240 @@
+[
+  {
+    "nome": "Banco do Brasil",
+    "codigo": "001",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Bradesco",
+    "codigo": "237",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros",
+      "Consórcios"
+    ]
+  },
+  {
+    "nome": "Itaú",
+    "codigo": "341",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros",
+      "Previdência"
+    ]
+  },
+  {
+    "nome": "Caixa Econômica Federal",
+    "codigo": "104",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros",
+      "FGTS",
+      "PIS",
+      "Bolsa Família"
+    ]
+  },
+  {
+    "nome": "Santander",
+    "codigo": "033",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros"
+    ]
+  },
+    {
+    "nome": "Banco Original",
+    "codigo": "212",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Investimentos",
+      "Seguros",
+      "Pix"
+    ]
+  },
+  {
+    "nome": "Nubank",
+    "codigo": "260",
+    "servicos": [
+      "Conta Corrente",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Investimentos",
+      "Seguros",
+      "Pix"
+    ]
+  },
+  {
+    "nome": "Banco Inter",
+    "codigo": "077",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros",
+      "Pix",
+      "Câmbio"
+    ]
+  },
+  {
+    "nome": "BTG Pactual",
+    "codigo": "011",
+    "servicos": [
+      "Conta Corrente",
+      "Investimentos",
+      "Empréstimos",
+      "Seguros",
+      "Câmbio"
+    ]
+  },
+  {
+    "nome": "XP Investimentos",
+    "codigo": "988",
+    "servicos": [
+      "Conta Corrente",
+      "Investimentos",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Banco Safra",
+    "codigo": "422",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Banco Votorantim",
+    "codigo": "650",
+    "servicos": [
+      "Conta Corrente",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Banco PAN",
+    "codigo": "623",
+    "servicos": [
+      "Conta Corrente",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Financiamentos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Banco Renner",
+    "codigo": "600",
+    "servicos": [
+      "Conta Corrente",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Banco C6 Bank",
+    "codigo": "336",
+    "servicos": [
+      "Conta Corrente",
+      "Conta Poupança",
+      "Cartão de Crédito",
+      "Investimentos",
+      "Seguros",
+      "Pix"
+    ]
+  },
+  {
+    "nome": "Banco Neon",
+    "codigo": "735",
+    "servicos": [
+      "Conta Corrente",
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Investimentos",
+      "Seguros",
+      "Pix"
+    ]
+  },
+  {
+    "nome": "Banco Daycoval",
+    "codigo": "707",
+    "servicos": [
+      "Conta Corrente",
+      "Empréstimos",
+      "Financiamentos",
+      "Investimentos"
+    ]
+  },
+  {
+    "nome": "Banco Credicard",
+    "codigo": "2001",
+    "servicos": [
+      "Cartão de Crédito",
+      "Empréstimos",
+      "Seguros"
+    ]
+  },
+  {
+    "nome": "Banco Fibra",
+    "codigo": "224",
+    "servicos": [
+      "Conta Corrente",
+      "Empréstimos",
+      "Financiamentos"
+    ]
+  },
+  {
+    "nome": "Banco ABC Brasil",
+    "codigo": "237",
+    "servicos": [
+      "Conta Corrente",
+      "Empréstimos",
+      "Investimentos"
+    ]
+  }
+]
