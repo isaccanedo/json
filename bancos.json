@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "Banco do Brasil",
+    "codigo": "001"
+  },
+  {
+    "nome": "Bradesco",
+    "codigo": "237"
+  },
+  {
+    "nome": "Itaú",
+    "codigo": "341"
+  },
+  {
+    "nome": "Caixa Econômica Federal",
+    "codigo": "104"
+  },
+  {
+    "nome": "Santander",
+    "codigo": "033"
+  },
+  {
+    "nome": "Banco Original",
+    "codigo": "212"
+  },
+  {
+    "nome": "Nubank",
+    "codigo": "260"
+  },
+  {
+    "nome": "Banco Inter",
+    "codigo": "077"
+  },
+  {
+    "nome": "BTG Pactual",
+    "codigo": "011"
+  },
+  {
+    "nome": "XP Investimentos",
+    "codigo": "988"
+  },
+  {
+    "nome": "Banco Safra",
+    "codigo": "422"
+  },
+  {
+    "nome": "Banco Votorantim",
+    "codigo": "650"
+  },
+  {
+    "nome": "Banco PAN",
+    "codigo": "623"
+  },
+  {
+    "nome": "Banco Renner",
+    "codigo": "600"
+  },
+  {
+    "nome": "Banco C6 Bank",
+    "codigo": "336"
+  },
+  {
+    "nome": "Banco Neon",
+    "codigo": "735"
+  },
+  {
+    "nome": "Banco Daycoval",
+    "codigo": "707"
+  },
+  {
+    "nome": "Banco Credicard",
+    "codigo": "2001"
+  },
+  {
+    "nome": "Banco Fibra",
+    "codigo": "224"
+  },
+  {
+    "nome": "Banco ABC Brasil",
+    "codigo": "237"
+  }
+]
