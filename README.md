@@ -17,17 +17,17 @@ Você pode acessar os dados JSON diretamente através dos links acima.
 **Exemplo de uso com JavaScript:**
 
 ```javascript
-fetch('[https://isaccanedo.github.io/json/posts.json](https://isaccanedo.github.io/json/posts.json)')
+fetch('[https://isaccanedo.github.io/json/bancos.json](https://isaccanedo.github.io/json/bancos.json)')
   .then(response => response.json())
   .then(data => {
-    // Faça algo com os dados dos posts
+    // Faça algo com os dados dos bancos
     console.log(data);
   });
 
-fetch('[https://isaccanedo.github.io/json/users.json](https://isaccanedo.github.io/json/users.json)')
+fetch('[https://isaccanedo.github.io/json/servicos.json](https://isaccanedo.github.io/json/servicos.json)')
   .then(response => response.json())
   .then(data => {
-    // Faça algo com os dados dos usuários
+    // Faça algo com os dados de serviços
     console.log(data);
   });
 
