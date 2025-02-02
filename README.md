@@ -3,11 +3,9 @@
 JSON é uma API REST online gratuita que você pode usar sempre que precisar de dados falsos 
 ou simplesmente para testar coisas localmente.
 
-# Exemplo de README.md
+## Links para os arquivos JSON
 
 Este repositório contém arquivos JSON com dados de posts e usuários.
-
-## Links para os arquivos JSON
 
 * [posts.json](https://isaccanedo.github.io/json/posts.json)
 * [users.json](https://isaccanedo.github.io/json/users.json)
